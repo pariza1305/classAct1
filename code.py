@@ -10,3 +10,14 @@ def print_narcis_numbers(start, end):
         if is_narc(num):
             print(num)
 print_narcis_numbers(1000, 5000)
+
+
+
+
+"""there were several errors in this code 
+1   function calls were wrong (name of the function  used was wrong )
+2   no colon after the def of function 
+3   == used instead of = 
+4   *** used instead of **
+5   no colon after if 
+6   no colon after if """
